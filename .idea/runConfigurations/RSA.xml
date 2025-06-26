@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RSA" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Ex3.Main" />
+    <module name="Ex" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

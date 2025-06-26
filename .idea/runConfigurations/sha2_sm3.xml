@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sha2&amp;sm3" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Ex4.Main" />
+    <module name="Ex" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

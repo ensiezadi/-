@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DES&amp;3DES" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Ex1.Main" />
+    <module name="Ex" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
